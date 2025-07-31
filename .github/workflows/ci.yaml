@@ -46,4 +46,4 @@ jobs:
           python-version: '3.9'
       - name: run unit test
         run : |
-          python -m unittest descover
+          python -m unittest discover
